@@ -1,0 +1,4 @@
+- Interesting words :speech_balloon:
+  - *langoustine*
+  - *bufonid*
+  - *Perth*
